@@ -1,0 +1,27 @@
+﻿{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Microsoft.NETCore.App": {
+      "version": "1.0.1",
+      "type": "platform"
+    },
+    "Moq": "4.8.3",
+    "WebApp": "99.99.99-99",
+    "xunit": "2.3.1",
+    "xunit.abstractions": "2.0.1",
+    "xunit.assert": "2.3.1",
+    "xunit.core": "2.3.1",
+    "xunit.extensibility.core": "2.3.1",
+    "xunit.runner.visualstudio": "2.3.1"
+  },
+
+  "frameworks": {
+    "netcoreapp1.0": {
+      "imports": [
+        "dotnet5.6",
+        "portable-net45+win8"
+      ]
+    }
+  }
+}

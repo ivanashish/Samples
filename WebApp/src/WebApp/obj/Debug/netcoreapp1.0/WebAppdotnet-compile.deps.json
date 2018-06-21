@@ -14,7 +14,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v1.0": {
-      "WebApp/1.0.0": {
+      "WebApp/99.99.99-99": {
         "dependencies": {
           "Microsoft.NETCore.App": "1.0.1",
           "Microsoft.AspNetCore.Authentication.Cookies": "1.0.0",
@@ -2857,7 +2857,7 @@
       }
     },
     ".NETCoreApp,Version=v1.0/": {
-      "WebApp/1.0.0": {
+      "WebApp/99.99.99-99": {
         "dependencies": {
           "Microsoft.NETCore.App": "1.0.1",
           "Microsoft.AspNetCore.Authentication.Cookies": "1.0.0",
@@ -5608,7 +5608,7 @@
     }
   },
   "libraries": {
-    "WebApp/1.0.0": {
+    "WebApp/99.99.99-99": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

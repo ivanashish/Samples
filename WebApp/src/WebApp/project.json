@@ -1,4 +1,6 @@
 {
+  "title": "WebApp",
+  "version": "99.99.99-99",
   "userSecretsId": "aspnet-WebApp-d9d5a21a-1adf-4248-be3e-43b4bb629db6",
 
   "dependencies": {
