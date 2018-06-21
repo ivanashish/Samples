@@ -1,19 +1,22 @@
-﻿{
+{
   "version": "1.0.0-*",
 
   "dependencies": {
-    "Microsoft.EntityFrameworkCore.InMemory": "1.1.5",
+    "Microsoft.EntityFrameworkCore.InMemory": "1.0.1",
     "Microsoft.NETCore.App": {
       "version": "1.0.1",
       "type": "platform"
     },
     "Moq": "4.8.3",
     "WebApp": "99.99.99-99",
-    "xunit": "2.3.1",
     "xunit.abstractions": "2.0.1",
+    "dotnet-test-xunit": "2.2.0-preview2-build1029",
+    "Microsoft.Extensions.DependencyModel": "1.1.0",
+    "xunit": "2.3.1",
     "xunit.assert": "2.3.1",
     "xunit.core": "2.3.1",
     "xunit.extensibility.core": "2.3.1",
+    "xunit.runner.console": "2.3.1",
     "xunit.runner.visualstudio": "2.3.1"
   },
 

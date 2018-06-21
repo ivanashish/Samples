@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v1.0/",
-    "signature": "e9b3e29723e9e17b871cd13305688f6590e52794"
+    "signature": "c32bcf8e12a6920e740b62f50ca0ec8f779c923b"
   },
   "compilationOptions": {
     "defines": [
@@ -35,7 +35,8 @@
           "Microsoft.Extensions.Logging.Debug": "1.0.0",
           "Microsoft.Extensions.Options.ConfigurationExtensions": "1.0.0",
           "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0",
-          "AutoMapper": "7.0.1"
+          "AutoMapper": "7.0.1",
+          "Microsoft.Extensions.DependencyModel": "1.1.0"
         },
         "compile": {
           "WebApp.dll": {}
@@ -429,7 +430,7 @@
           "Microsoft.AspNetCore.Http": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Abstractions": "1.0.1",
           "Microsoft.AspNetCore.Routing": "1.0.1",
-          "Microsoft.Extensions.DependencyModel": "1.0.0",
+          "Microsoft.Extensions.DependencyModel": "1.1.0",
           "Microsoft.Extensions.FileProviders.Abstractions": "1.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "1.0.0",
           "Microsoft.Extensions.PlatformAbstractions": "1.0.0",
@@ -727,7 +728,7 @@
           "ref/netstandard1.0/Microsoft.CSharp.dll": {}
         }
       },
-      "Microsoft.DotNet.InternalAbstractions/1.0.0": {
+      "Microsoft.DotNet.PlatformAbstractions/1.1.0": {
         "dependencies": {
           "System.AppContext": "4.3.0",
           "System.Collections": "4.3.0",
@@ -739,7 +740,7 @@
           "System.Runtime.InteropServices.RuntimeInformation": "4.3.0"
         },
         "compile": {
-          "lib/netstandard1.3/Microsoft.DotNet.InternalAbstractions.dll": {}
+          "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore/1.0.1": {
@@ -905,9 +906,9 @@
           "lib/netstandard1.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         }
       },
-      "Microsoft.Extensions.DependencyModel/1.0.0": {
+      "Microsoft.Extensions.DependencyModel/1.1.0": {
         "dependencies": {
-          "Microsoft.DotNet.InternalAbstractions": "1.0.0",
+          "Microsoft.DotNet.PlatformAbstractions": "1.1.0",
           "Newtonsoft.Json": "9.0.1",
           "System.Diagnostics.Debug": "4.3.0",
           "System.Dynamic.Runtime": "4.3.0",
@@ -2878,7 +2879,8 @@
           "Microsoft.Extensions.Logging.Debug": "1.0.0",
           "Microsoft.Extensions.Options.ConfigurationExtensions": "1.0.0",
           "Microsoft.VisualStudio.Web.BrowserLink.Loader": "14.0.0",
-          "AutoMapper": "7.0.1"
+          "AutoMapper": "7.0.1",
+          "Microsoft.Extensions.DependencyModel": "1.1.0"
         },
         "runtime": {
           "WebApp.dll": {}
@@ -3272,7 +3274,7 @@
           "Microsoft.AspNetCore.Http": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Abstractions": "1.0.1",
           "Microsoft.AspNetCore.Routing": "1.0.1",
-          "Microsoft.Extensions.DependencyModel": "1.0.0",
+          "Microsoft.Extensions.DependencyModel": "1.1.0",
           "Microsoft.Extensions.FileProviders.Abstractions": "1.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "1.0.0",
           "Microsoft.Extensions.PlatformAbstractions": "1.0.0",
@@ -3573,7 +3575,7 @@
           "lib/netstandard1.3/Microsoft.CSharp.dll": {}
         }
       },
-      "Microsoft.DotNet.InternalAbstractions/1.0.0": {
+      "Microsoft.DotNet.PlatformAbstractions/1.1.0": {
         "dependencies": {
           "System.AppContext": "4.3.0",
           "System.Collections": "4.3.0",
@@ -3585,7 +3587,7 @@
           "System.Runtime.InteropServices.RuntimeInformation": "4.3.0"
         },
         "runtime": {
-          "lib/netstandard1.3/Microsoft.DotNet.InternalAbstractions.dll": {}
+          "lib/netstandard1.3/Microsoft.DotNet.PlatformAbstractions.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore/1.0.1": {
@@ -3751,9 +3753,9 @@
           "lib/netstandard1.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
         }
       },
-      "Microsoft.Extensions.DependencyModel/1.0.0": {
+      "Microsoft.Extensions.DependencyModel/1.1.0": {
         "dependencies": {
-          "Microsoft.DotNet.InternalAbstractions": "1.0.0",
+          "Microsoft.DotNet.PlatformAbstractions": "1.1.0",
           "Newtonsoft.Json": "9.0.1",
           "System.Diagnostics.Debug": "4.3.0",
           "System.Dynamic.Runtime": "4.3.0",
@@ -5873,10 +5875,10 @@
       "serviceable": true,
       "sha512": "sha512-EGoBmf3Na2ppbhPePDE9PlX81r1HuOZH5twBrq7couJZiPTjUnD3648balerQJO6EJ8Sj+43+XuRwQ7r+3tE3w=="
     },
-    "Microsoft.DotNet.InternalAbstractions/1.0.0": {
+    "Microsoft.DotNet.PlatformAbstractions/1.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-AAguUq7YyKk3yDWPoWA8DrLZvURxB/LrDdTn1h5lmPeznkFUpfC3p459w5mQYQE0qpquf/CkSQZ0etiV5vRHFA=="
+      "sha512": "sha512-Bl6KYfbFSIW3QIRHAp931iR5h01qHjKghdpAtncwbzNUs0+IUZ+XfwkIU0sQsR33ufGvi3u4dZMIYYFysjpHAA=="
     },
     "Microsoft.EntityFrameworkCore/1.0.1": {
       "type": "package",
@@ -5948,10 +5950,10 @@
       "serviceable": true,
       "sha512": "sha512-+XwaNo3o9RhLQhUnnOBCaukeRi1X9yYc0Fzye9RlErSflKZdw0VgHtn6rvKo0FTionsW0x8QVULhKH+nkqVjQA=="
     },
-    "Microsoft.Extensions.DependencyModel/1.0.0": {
+    "Microsoft.Extensions.DependencyModel/1.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-n55Y2T4qMgCNMrJaqAN+nlG2EH4XL+e9uxIg4vdFsQeF+L8UKxRdD3C35Bt+xk3vO3Zwp3g+6KFq2VPH2COSmg=="
+      "sha512": "sha512-TG7dJ8GY1Myz9lZ8DJL4i6D05ncJQBi5CjBMXMdJ4edKxaW+vP2DndDd1jJabdMdmVRdGrvybzqkB+A6Df7eDw=="
     },
     "Microsoft.Extensions.FileProviders.Abstractions/1.0.0": {
       "type": "package",
@@ -6361,7 +6363,7 @@
     "System.Interactive.Async/3.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-iyrgkZz9Dzm0fiPouQszFC3SO/46k6AYd/jG9bu+/o0AoDMaRXtlo3TIuWVNtOuJFd1noL963QouroJ0T3rImw=="
+      "sha512": "sha512-UEM+WmG1Oq0bNbPx/E1jaIQ83QOrPfVDUyuYBtG6D6DpB77ytv9flPterMujumpHuoRjSc0ilSB8w41fQc05dw=="
     },
     "System.IO/4.3.0": {
       "type": "package",

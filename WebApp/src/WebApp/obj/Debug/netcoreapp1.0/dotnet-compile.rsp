@@ -72,7 +72,7 @@
 --reference:C:\Users\v-paiva\.nuget\packages\Microsoft.Composition\1.0.27\lib\portable-net45+win8+wp8+wpa81\System.Composition.TypedParts.dll
 --reference:C:\Users\v-paiva\.nuget\packages\Microsoft.CSharp\4.5.0\ref\netstandard1.0\Microsoft.CSharp.dll
 --reference:C:\Users\v-paiva\.nuget\packages\Microsoft.DotNet.Cli.Utils\1.0.0-preview2-003121\lib\netstandard1.6\Microsoft.DotNet.Cli.Utils.dll
---reference:C:\Users\v-paiva\.nuget\packages\Microsoft.DotNet.InternalAbstractions\1.0.0\lib\netstandard1.3\Microsoft.DotNet.InternalAbstractions.dll
+--reference:C:\Users\v-paiva\.nuget\packages\Microsoft.DotNet.PlatformAbstractions\1.1.0\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll
 --reference:C:\Users\v-paiva\.nuget\packages\Microsoft.DotNet.ProjectModel\1.0.0-rc3-003121\lib\netstandard1.6\Microsoft.DotNet.ProjectModel.dll
 --reference:C:\Users\v-paiva\.nuget\packages\Microsoft.DotNet.ProjectModel.Loader\1.0.0-preview2-003121\lib\netstandard1.6\Microsoft.DotNet.ProjectModel.Loader.dll
 --reference:C:\Users\v-paiva\.nuget\packages\Microsoft.EntityFrameworkCore\1.0.1\lib\netstandard1.3\Microsoft.EntityFrameworkCore.dll
@@ -95,7 +95,7 @@
 --reference:C:\Users\v-paiva\.nuget\packages\Microsoft.Extensions.Configuration.UserSecrets\1.0.0\lib\netstandard1.3\Microsoft.Extensions.Configuration.UserSecrets.dll
 --reference:C:\Users\v-paiva\.nuget\packages\Microsoft.Extensions.DependencyInjection\1.0.0\lib\netstandard1.1\Microsoft.Extensions.DependencyInjection.dll
 --reference:C:\Users\v-paiva\.nuget\packages\Microsoft.Extensions.DependencyInjection.Abstractions\1.0.0\lib\netstandard1.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
---reference:C:\Users\v-paiva\.nuget\packages\Microsoft.Extensions.DependencyModel\1.0.0\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll
+--reference:C:\Users\v-paiva\.nuget\packages\Microsoft.Extensions.DependencyModel\1.1.0\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll
 --reference:C:\Users\v-paiva\.nuget\packages\Microsoft.Extensions.FileProviders.Abstractions\1.0.0\lib\netstandard1.0\Microsoft.Extensions.FileProviders.Abstractions.dll
 --reference:C:\Users\v-paiva\.nuget\packages\Microsoft.Extensions.FileProviders.Composite\1.0.0\lib\netstandard1.0\Microsoft.Extensions.FileProviders.Composite.dll
 --reference:C:\Users\v-paiva\.nuget\packages\Microsoft.Extensions.FileProviders.Physical\1.0.0\lib\netstandard1.3\Microsoft.Extensions.FileProviders.Physical.dll
