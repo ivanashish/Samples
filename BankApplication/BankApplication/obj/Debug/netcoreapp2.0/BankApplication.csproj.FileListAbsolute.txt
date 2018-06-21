@@ -1,0 +1,12 @@
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication\bin\Debug\netcoreapp2.0\BankApplication.deps.json
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication\bin\Debug\netcoreapp2.0\BankApplication.runtimeconfig.json
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication\bin\Debug\netcoreapp2.0\BankApplication.runtimeconfig.dev.json
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication\bin\Debug\netcoreapp2.0\BankApplication.dll
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.0\BankApplication.csprojAssemblyReference.cache
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.0\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.0\BankApplication.AssemblyInfoInputs.cache
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.0\BankApplication.AssemblyInfo.cs
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication\bin\Debug\netcoreapp2.0\BankApplication.pdb
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.0\BankApplication.dll
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.0\BankApplication.pdb
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

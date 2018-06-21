@@ -1,0 +1,95 @@
+﻿@model BankApplication.Models.BranchEntity
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">Branch Name</label>
+                <select id="BranchId" name="BranchId" class="form-control" asp-items="@(new SelectList(@ViewBag.Branches, "Id", "Name"))"></select>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Customer Name</label>
+                <select id="CustomerId" name="CustomerId" class="form-control" asp-items="@(new SelectList(string.Empty, "Id", "Name"))"></select>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Account</label>
+                <select id="AccountId" name="AccountId" class="form-control" asp-items="@(new SelectList(string.Empty, "Id", "Name"))"></select>
+            </div>
+
+            <div id="Transactions"></div>
+        </form>
+    </div>
+</div>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var ddlBranch = '#BranchId';
+        var ddlCustomer = '#CustomerId';
+        var ddlAccount = '#AccountId';
+        var transactions = '#Transactions';
+
+        loadCustomers($(ddlBranch).val());
+        
+
+        $(ddlBranch).change(function () {
+            loadCustomers($(ddlBranch).val())
+        });
+
+        $(ddlCustomer).change(function () {
+            loadAccounts($(ddlBranch).val(), $(ddlCustomer).val())
+        });
+
+        $(ddlAccount).change(function () {
+            loadTransactions($(ddlAccount).val())
+        });
+
+        function loadCustomers(branchId) {
+            var url = '@Url.Content("~/")' + "Customers/GetCustomersByBranchId";
+            
+            $.getJSON(url, { id: branchId }, function (data) {
+                var items = '';
+                $(ddlCustomer).empty();
+                $.each(data, function (i, customer) {
+                    items += "<option value='" + customer.value + "'>" + customer.text + "</option>";
+                });
+                $(ddlCustomer).html(items);
+
+                loadAccounts(branchId, $(ddlCustomer).val());
+            });
+        };
+
+        function loadAccounts(branchId, customerId) {
+            var url = '@Url.Content("~/")' + "Accounts/GetAccountsByBranchAndCustomerIds";
+            
+            $.getJSON(url, { branchId: branchId, customerId: customerId }, function (data) {
+                var items = '';
+                $(ddlAccount).empty();
+                $.each(data, function (i, account) {
+                    items += "<option value='" + account.value + "'>" + account.text + "</option>";
+                });
+                $(ddlAccount).html(items);
+
+                loadTransactions($(ddlAccount).val());
+            });
+        };
+
+        function loadTransactions(accountId) {
+            var url = '@Url.Content("~/")' + "Transactions/GetTransactionsByAccountId";
+
+            $.getJSON(url, { accountId: accountId}, function (data) {
+                var items = '';
+                $(transactions).empty();
+                $.each(data, function (i, transaction) {
+                    items += transaction.id + '<br/>';
+                });
+                $(transactions).html(items);
+            });
+        };
+    });
+</script>

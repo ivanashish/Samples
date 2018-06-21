@@ -1,0 +1,17 @@
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\bin\Debug\netcoreapp2.0\BusinessLogic.Tests.deps.json
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\bin\Debug\netcoreapp2.0\BusinessLogic.Tests.dll
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\bin\Debug\netcoreapp2.0\BusinessLogic.Tests.pdb
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\obj\Debug\netcoreapp2.0\BusinessLogic.Tests.csproj.CoreCompileInputs.cache
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\obj\Debug\netcoreapp2.0\BusinessLogic.Tests.AssemblyInfoInputs.cache
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\obj\Debug\netcoreapp2.0\BusinessLogic.Tests.AssemblyInfo.cs
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\obj\Debug\netcoreapp2.0\BusinessLogic.Tests.dll
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\obj\Debug\netcoreapp2.0\BusinessLogic.Tests.pdb
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\bin\Debug\netcoreapp2.0\BankApplication.dll
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\bin\Debug\netcoreapp2.0\BankApplication.pdb
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\obj\Debug\netcoreapp2.0\BusinessLogic.Tests.csproj.CopyComplete
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\bin\Debug\netcoreapp2.0\BusinessLogic.Tests.runtimeconfig.json
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\bin\Debug\netcoreapp2.0\BusinessLogic.Tests.runtimeconfig.dev.json
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\obj\Debug\netcoreapp2.0\BusinessLogic.Tests.csprojAssemblyReference.cache
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\v-paiva\source\repos\BankApplication\BusinessLogic.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll

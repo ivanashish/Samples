@@ -1,0 +1,11 @@
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication.Repository\bin\Debug\netcoreapp2.0\BankApplication.Repository.deps.json
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication.Repository\bin\Debug\netcoreapp2.0\BankApplication.Repository.dll
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication.Repository\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication.Repository\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication.Repository\bin\Debug\netcoreapp2.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication.Repository\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication.Repository\obj\Debug\netcoreapp2.0\BankApplication.Repository.csprojAssemblyReference.cache
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication.Repository\obj\Debug\netcoreapp2.0\BankApplication.Repository.csproj.CoreCompileInputs.cache
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication.Repository\obj\Debug\netcoreapp2.0\BankApplication.Repository.AssemblyInfoInputs.cache
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication.Repository\obj\Debug\netcoreapp2.0\BankApplication.Repository.AssemblyInfo.cs
+C:\Users\v-paiva\source\repos\BankApplication\BankApplication.Repository\obj\Debug\netcoreapp2.0\BankApplication.Repository.csproj.CopyComplete

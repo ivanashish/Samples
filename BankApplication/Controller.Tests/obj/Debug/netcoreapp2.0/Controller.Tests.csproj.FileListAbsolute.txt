@@ -1,0 +1,17 @@
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\bin\Debug\netcoreapp2.0\Controller.Tests.deps.json
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\bin\Debug\netcoreapp2.0\Controller.Tests.dll
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\bin\Debug\netcoreapp2.0\Controller.Tests.pdb
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\obj\Debug\netcoreapp2.0\Controller.Tests.csproj.CoreCompileInputs.cache
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\obj\Debug\netcoreapp2.0\Controller.Tests.AssemblyInfoInputs.cache
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\obj\Debug\netcoreapp2.0\Controller.Tests.AssemblyInfo.cs
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\obj\Debug\netcoreapp2.0\Controller.Tests.dll
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\obj\Debug\netcoreapp2.0\Controller.Tests.pdb
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\bin\Debug\netcoreapp2.0\Controller.Tests.runtimeconfig.json
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\bin\Debug\netcoreapp2.0\Controller.Tests.runtimeconfig.dev.json
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\obj\Debug\netcoreapp2.0\Controller.Tests.csprojAssemblyReference.cache
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\bin\Debug\netcoreapp2.0\BankApplication.dll
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\bin\Debug\netcoreapp2.0\BankApplication.pdb
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\obj\Debug\netcoreapp2.0\Controller.Tests.csproj.CopyComplete
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\v-paiva\source\repos\BankApplication\Controller.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
